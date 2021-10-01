@@ -47,6 +47,16 @@ var quizQuestions = [
                 d: Tata Motors`,
     
      answer : "d"
+   },
+
+   questionFive = {
+     question : `MG motors is?
+                a: American
+                b: Chinese
+                c: Indian
+                d: German`,
+    
+     answer : "b"
    }
 ]
 
